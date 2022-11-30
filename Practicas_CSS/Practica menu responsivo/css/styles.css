@@ -1,0 +1,26 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+nav {
+    background-color: black;
+    padding: 25px;
+}
+nav a {
+    display: block;
+    text-align: center;
+    margin: 30px 0;
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+}
+nav a:hover {
+    color: limegreen;
+}
+
+@media(min-width: 500px) {
+    nav {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 40px;
+    }
+}

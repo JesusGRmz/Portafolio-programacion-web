@@ -1,0 +1,25 @@
+<?xml version ="1.0" encoding="ISO-8859-1" ?>
+<rss version="0.91">
+    <channel>
+        <title>Poeta Frank Silverstone</title>
+        <link>https://www.letras.com/nach/tal-como-eres-part-andres-suarez-y-sharif/</link>
+        <description>Servicio para mis lectores</description>
+        <language>es</language>
+        <copyright>Frank Silverstone</copyright>
+        <item>
+            <title>Letra de canciones</title>
+            <description>Tal como eres - Nach ft Sharif</description>
+            <link>https://www.letras.com/nach/tal-como-eres-part-andres-suarez-y-sharif/</link>
+        </item>
+        <item>
+            <title>Acceder a música</title>
+            <description>YOU-TUBE</description>
+            <link>https://www.youtube.com/</link>
+        </item>
+        <item>
+            <title>Red social</title>
+            <description>FACEBOOK</description>
+            <link>https://www.facebook.com/</link>
+        </item>
+    </channel>
+</rss>

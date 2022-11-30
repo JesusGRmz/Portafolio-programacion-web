@@ -1,0 +1,63 @@
+<!DOCTYPE HTML>
+<HTML lang="en">
+<meta charset="UTF-8">
+
+<HEAD>
+	<TITLE>Formularios 09/09/2020</TITLE>
+</HEAD>
+<style>
+	#bots {
+		display: flex;
+		justify-content: space-between;
+	}
+</style>
+
+<BODY align="center">
+	<h1>Formularios</h1>
+	<form action="mailto:unaprueba" method="POST">
+		<!--<label>Escribe algo</label>
+	    <input type="text" value="" placeholder="8========================D">-->
+		<label>Introduce tu nombre: </label><input type="text" name="nombre" placeholder="--------------"><br>
+		<input type="submit">
+		<input type="reset">
+	</form>
+
+	<br>
+	<form action="mailto:unaprueba" method="POST">
+		<label>Texto: </label><input type="text" name="nombre"><br>
+		<label>Password: </label><input type="password" name="contra"><br>
+		<label>Sexo: </label><input type="radio" name="boton1" value="1">
+		Hombre<input type="radio" name="boton1" value="2">Mujer<br>
+		vehiculo:<input type="checkbox" name="Moto" value="si">Moto
+		<input type="checkbox" name="Coche" Value="" Checked>Coche
+		<br><br>
+		<input type="submit">
+		<input type="reset">
+	</form>
+
+	<br>
+	<form action="mailto:unaprueba" method="POST">
+		<select name="Colores" MULTIPLE>
+			<OPTION VALUE="r">Rojo</OPTION>
+			<OPTION VALUE="g">Verde</OPTION>
+			<OPTION VALUE="b">Azul</OPTION>
+		</select>
+		<br><br>
+		<select name="Colores" size="1">
+			<OPTION VALUE="r">Rojo</OPTION>
+			<OPTION VALUE="g">Verde</OPTION>
+			<OPTION VALUE="b">Azul</OPTION>
+		</select>
+		<br><br>
+		<input type="submit">
+		<input type="reset">
+	</form>
+
+	<div id="bots">
+		<input type="button" value="ANTERIOR" onclick="location.href='DEGRADADO_ITL.html'">
+		<input type="button" value="HOME" onclick="location.href='PRACTICA2_JJGR/Union.html'">
+		<input type="button" value="SIGUIENTE" onclick="location.href='SOLICITUD_EMPLEO.html'">
+	</div>
+</BODY>
+
+</HTML>

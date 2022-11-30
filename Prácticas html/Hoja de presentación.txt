@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Hoja de presentación</title>
+  </head>
+  <body>
+    <h1>TECNOLÓGICO NACIONAL DE MÉXICO campus LEÓN</h1>
+  </body>
+</html>
